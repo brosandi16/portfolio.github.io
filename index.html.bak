@@ -1,8 +1,8 @@
 <html>
 <head>
-<title> Prova!
-</title>
-</head>
-<body> ciao a nessuno
-</body>
+<h1>Embedded Images</h1>
+<p>Images are inline elements they fit in the flow
+<img src="C:\Users\Aurora\Desktop\Grafiche\IOCAFFE.png">
+of a paragraph without causing extra line breaks.</p>
+
 </html>
