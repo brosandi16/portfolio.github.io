@@ -1,11 +1,21 @@
 <html>
 <head>
 <title> s.Carabò.cchi </title>
-</head>
-<body style="background-color:#003f38;">
-  <center>
-  <a href="default.asp"><img src="IOOOOO.PNG"  alt=selfportrait width="300;"></a>
-  </center>
+<link rel="icon" type="image/x-icon" href="favicon.PNG">
+</header>
+
+<nav>
+<ul>
+<a href="index.html.bak"> <img src="IOOOOO.PNG"  alt=selfportrait width="100;"></a>
+ <a href="illustrazioni.html">illustrazioni</a><br>
+  <a href="digitalcollage.html">digital collage</a><br>
+ <a href="poster.html">poster</a><br>
+ <a href="webdesign.html">web design</a><br>
+ <a href="socialmedia.html">social media</a><br><br>
+ <a href="aboutme.html">About me</a><br>
+ <a href="contact.html">Contact</a><br>
+
+
 <p style="text-align:center; font-family:futura; color:#fdffe9;"><b>WORK</b> <br/>
 illustrazioni <br/>
 digital collage <br/>
